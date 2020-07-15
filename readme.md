@@ -6,7 +6,7 @@ This repository will contain a graph neural network model to be trained on spars
 
 
 
-#Dependencies 
+# Dependencies 
 
 - Pytorch 
 - larcv3 
